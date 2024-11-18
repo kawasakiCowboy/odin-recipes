@@ -1,0 +1,1 @@
+This is an introduction project guided by Odin to dive into webdev
